@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Leaflet CSS */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
